@@ -61,7 +61,7 @@
     "\uE032":["@yahiamice_logo", "@yahamouse_logo"],
     "\uE033":["@spingot"],
     "\uE034":["@zoid", "@thezoidmaster"],
-    "\uE035":["@tiv", "@tivwo"],
+    "\uE035":{"names":["@tiv", "@tivwo"],"color":"ffffff"},
     "\u0000":[],
     "\u0000":[]
   }
