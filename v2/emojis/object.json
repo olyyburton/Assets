@@ -34,7 +34,7 @@
     "\uE01B": ["timer", "stopwatch"],
     "\uE01C": ["lantern", "paper_lantern", "izakaya_lantern", "lamp", "lämp"],
     "\uE01D": ["crown"],
-    "\uE01E": ["fez"],
+    "\u0000": [],
     "\uE01F": ["witch_hat"],
 
     "\uE020": ["koinobori", "flags"],
@@ -85,8 +85,8 @@
     "\uE048": ["envelope"],
     "\uE049": ["postbox"],
     "\uE04A": ["slot_machine", "slots"],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE04B": ["fez"],
+    "\uE04C": ["fez_mask"],
     "\u0000": [],
     "\u0000": [],
     "\u0000": []
