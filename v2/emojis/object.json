@@ -34,7 +34,7 @@
     "\uE01B": ["timer", "stopwatch"],
     "\uE01C": ["lantern", "paper_lantern", "izakaya_lantern", "lamp", "lämp"],
     "\uE01D": ["crown"],
-    "\uE01E": ["fez"],
+    "\uE01E": {"names":["fez"],"color":"dd3858"},
     "\uE01F": ["witch_hat"],
 
     "\uE020": ["koinobori", "flags"],

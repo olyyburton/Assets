@@ -29,8 +29,8 @@
     "\u0000":[],
     "\u0000":[],
 
-    "\uE018":["@gn","@gnamimates"],
-    "\uE019":["@scarlet","@scarletlight"],
+    "\uE018":["@gn","@gnamimates","@gn68","tophat","top_hat"],
+    "\uE019":{"names":["@gn_band","@gn_ribbon"],"color":"99e65f"},
     "\uE01A":["@toast"],
     "\uE01B":["@katt", "@kitkat"],
     "\uE01C":["@auria"],
@@ -47,7 +47,7 @@
     "\uE026":["@maven_logo"],
     "\uE027":["@komodo","@komodo_dgn"],
 
-    "\uE028":["@cone","@mxduck"],
+    "\uE028":{"names":["@cone","@mxduck"],"color":"00d2ff"},
     "\uE029":["@crimson", "@kelvin"],
     "\uE02A":["@cosmic","@cosmiccalamitty","@rio1u"],
     "\uE02B":["@palck"],
@@ -61,7 +61,7 @@
     "\uE032":["@yahiamice_logo", "@yahamouse_logo"],
     "\uE033":["@spingot"],
     "\uE034":["@zoid", "@thezoidmaster"],
-    "\uE035":["@tiv", "@tivwo"],
+    "\uE035":{"names":["@tiv", "@tivwo"],"color":"ffffff"},
     "\u0000":[],
     "\u0000":[]
   }
